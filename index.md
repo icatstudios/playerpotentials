@@ -20,7 +20,6 @@ Link to privacy policy of third party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Firebase Analytics](https://firebase.google.com/policies/analytics)
-*   [Appodeal](https://https://www.appodeal.com/privacy-policy) ([Partners](https://www.appodeal.com/home/partners-privacy-policies/))
 
 **Log Data**
 
